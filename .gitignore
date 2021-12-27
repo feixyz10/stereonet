@@ -1,0 +1,8 @@
+*.pyc
+*.json
+*.ipynb
+*.pth
+*.tar
+*.txt
+.vscode
+misc
